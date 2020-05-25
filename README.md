@@ -1,2 +1,2 @@
 # arduino-controller
-This repository contains the code to trigger three cameras every 10min from an arduino board
+This repository contains the code to trigger three cameras every 10 min from an arduino board
